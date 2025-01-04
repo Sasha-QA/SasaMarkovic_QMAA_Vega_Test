@@ -4,4 +4,5 @@ In this repository we have Word document for manual part of the task, and files 
 
 To start tests, use these two commands:
 npx wdio run wdio.conf.js --spec ./test/specs/testCases.js
+and
 npx wdio run wdio.conf.js --spec ./test/specs/endToEndCases.js
